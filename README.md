@@ -1,1 +1,2 @@
-# banking_operation
+📌 Sobre o Projeto
+Este projeto implementa um sistema bancário básico em Python, utilizando conceitos de orientação a objetos e estruturação modular do código. Ele permite criar clientes e contas, realizar depósitos e saques, além de exibir o extrato das movimentações financeiras. O código também inclui um controle de transações diárias, garantindo que um cliente não ultrapasse o limite permitido de operações.
